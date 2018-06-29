@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Puntosdeventas</string>
+    <string name="usuario">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="cantidad">Nueva Cantidad</string>
+    <string name="btguarfar">Guardar</string>
+</resources>
